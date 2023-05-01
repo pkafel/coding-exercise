@@ -1,4 +1,3 @@
-# Codility lesson tasks
-This repo represents my solutions to tasks published on Codility page ( [link](https://codility.com/programmers/lessons/) ).
+# Coding exercise
 
-On the wiki page you can find scores for me code - [link] (https://github.com/pkafel/codility-lessons/wiki)
+The repository contains solutions to algorithmic problems from different services that allow you to practice before interview.
