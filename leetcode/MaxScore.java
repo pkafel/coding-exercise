@@ -1,5 +1,6 @@
 import java.util.*;
 
+// https://leetcode.com/problems/maximum-subsequence-score/
 public class MaxScore {
     public static long maxScore(int[] nums1, int[] nums2, int k) {
         int[][] mergedArray = new int[nums1.length][2];
