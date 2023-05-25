@@ -1,4 +1,4 @@
-package com.piotrkafel.lesson1;
+package com.piotrkafel.codility;
 
 /**
  * Find the missing element in a given permutation.

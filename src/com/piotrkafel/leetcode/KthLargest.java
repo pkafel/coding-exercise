@@ -1,3 +1,5 @@
+package com.piotrkafel.leetcode;
+
 import java.util.*;
 
 // https://leetcode.com/problems/kth-largest-element-in-a-stream/

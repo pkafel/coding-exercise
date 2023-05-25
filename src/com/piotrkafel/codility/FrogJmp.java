@@ -1,4 +1,4 @@
-package com.piotrkafel.lesson1;
+package com.piotrkafel.codility;
 
 /**
  * Count minimal number of jumps from position X to Y.

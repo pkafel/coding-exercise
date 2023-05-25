@@ -1,3 +1,5 @@
+package com.piotrkafel.leetcode;
+
 public class IsPalindrome {
 
     public static class ListNode {

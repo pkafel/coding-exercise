@@ -1,3 +1,5 @@
+package com.piotrkafel.leetcode;
+
 import java.util.Map;
 
 // Solution to https://leetcode.com/problems/roman-to-integer/
